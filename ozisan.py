@@ -1,3 +1,3 @@
 # gittest
-a = ozisan
+a = obasan
 print(a)
